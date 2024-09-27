@@ -1,1 +1,3 @@
 # AIVMinds
+
+## Nguyen Manh Cuong
